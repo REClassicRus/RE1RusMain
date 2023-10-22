@@ -2,9 +2,9 @@
 Перевод Resident Evil 1 на русский язык для [патча Resident Evil Classic REbirth](https://classicrebirth.com/index.php/downloads/resident-evil-classic-rebirth/). 
 
 ## Папки
-* `mod_russian` - основная папка перевода (все файлы).
-* `mod_russian_with_subtitles` - папка с файлами субтитров (чтобы не дублировать файлы).
-* `mod_russian_hd` - папка для hd мода (шрифт, документы и прочее).
+* `RE_Russian_mod/mod_russian` - основная папка перевода (все файлы).
+* `RE_Russian_mod/mod_russian_with_subtitles` - папка с файлами субтитров (чтобы не дублировать файлы).
+* `RE_Russian_mod/mod_russian_hd` - папка для hd мода (шрифт, документы и прочее).
 
 ## Нашли ошибку? Хотите улучшить перевод?
 Ошибку можно прислать в раздел `Issues` или прислать `Pull request` (нажав форк, добавив переносом обновленный файл или git-ом) и нажав `Pull request`.
