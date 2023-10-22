@@ -1,0 +1,24 @@
+﻿<Strings>
+	<Text>Выход</Text>
+	<Text>Новое сохранение</Text>
+	<Text>Загрузка</Text>
+	<Text>Сохранение</Text>
+	<Text>Не загружать</Text>
+	<Text>Не сохранять</Text>
+	<Text>Крис</Text>
+	<Text>Джилл</Text>
+	<Text>{center}Перезаписать сохранение?</Text>
+	<Text>Да</Text>
+	<Text>Нет</Text>
+	<!-- rooms -->
+	<Text>Мед. комната 1-эт.</Text>
+    <Text>Зал 1-эт.</Text>
+    <Text>Комната внутр. двора Б1</Text>
+	<Text>Комната охраны 1-эт.</Text>
+	<Text>Лаборатория Б3</Text>
+	<Text>Кладовая 1-эт.</Text>
+	<Text>Внутр. двор Б1</Text>
+	<!-- ascii strings used to generate save names -->
+	<Text>Chris</Text>
+	<Text>Jill</Text>
+</Strings>

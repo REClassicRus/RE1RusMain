@@ -1,0 +1,14 @@
+<Strings>
+	<!-- quit / reset screen-->
+	<Text>{center}ВЫХОД ИЗ ИГРЫ: F9</Text>
+	<Text>{center}ВЕРНУТЬ НАЧАЛЬНЫЙ ЭКРАН: F9</Text>
+	<Text>{center}ОТМЕНА: ЛЮБАЯ ДРУГАЯ КНОПКА</Text>
+	<Text></Text>
+	<!-- Yes / No prompts -->
+	<Text>Да{pos 40}Нет</Text>
+	<!-- timers -->
+	<Text>{center}%d'%02d"%d%d</Text>
+	<!-- difficulties at title screen -->
+	<Text>EASY</Text>
+	<Text>HARD</Text>
+</Strings>

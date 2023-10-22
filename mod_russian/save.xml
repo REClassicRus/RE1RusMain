@@ -1,0 +1,25 @@
+﻿<Strings>
+	<Text>-----{tab 40}/--{tab 64}/-----------------</Text>
+	<Text>{center}Загрузить игру</Text>
+	<Text>{center}Сохранить игру</Text>
+	<Text>Не загружать</Text>
+	<Text>Не сохранять</Text>
+	<Text>К{s}р{s}и{s}с{s}</Text>
+	<Text>Д{s}ж{s}и{s}л{s}л{s}</Text>
+	<Text>{center}Перезаписать?</Text>
+	<Text>Да</Text>
+	<Text>Нет</Text>
+	<Text>М{s}е{s}д.{s} {s}к{s}о{s}м{s}н{s}а{s}т{s}а{s} {s}1{s}-{s}э{s}т{s}.{s}</Text>
+    <Text>З{s}а{s}л{s} {s}1{s}-{s}э{s}т{s}.{s}</Text>
+    <Text>К{s}о{s}м{s}н{s}а{s}т{s}а{s} {s}в{s}н{s}у{s}т{s}р{s}.{s} {s}д{s}в{s}о{s}р{s}а{s} {s}Б{s}1{s}</Text>
+	<Text>К{s}о{s}м{s}н{s}а{s}т{s}а{s} {s}о{s}х{s}р{s}а{s}н{s}ы{s} {s}1{s}-{s}э{s}т{s}.{s}</Text>
+	<Text>Л{s}а{s}б{s}о{s}р{s}а{s}т{s}о{s}р{s}и{s}я{s} {s}Б{s}3{s}</Text>
+	<Text>К{s}л{s}а{s}д{s}о{s}в{s}а{s}я{s} {s}1{s}-{s}э{s}т{s}.{s}</Text>
+	<Text>В{s}н{s}у{s}т{s}р{s}.{s} {s}д{s}в{s}о{s}р{s} {s}Б{s}1{s}</Text>
+	<Text>{tab 12}Да{tab 68}Нет</Text>
+	<Text>{tab 40}/{tab 64}/</Text>
+	<!-- position of number counter -->
+	<Text>{tab 40}</Text>
+	<!-- position of location string-->
+	<Text>{tab 64}</Text>
+</Strings>
