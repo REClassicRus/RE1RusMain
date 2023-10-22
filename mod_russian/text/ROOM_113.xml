@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 2}Ванна наполнена\nмутной водой.{clear 0}{scroll 2}\nСпустить воду?{branch 0 1 1}\nНичего полезного.</Text>
+    <Text>\nНичего полезного.</Text>
+</Strings>
