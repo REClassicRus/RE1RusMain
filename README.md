@@ -1,4 +1,4 @@
-# RE1RusMain
+# Русификатор Resident Evil 1
 Перевод Resident Evil 1 на русский язык для [патча Resident Evil Classic REbirth](https://classicrebirth.com/index.php/downloads/resident-evil-classic-rebirth/). 
 
 ## Папки
