@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>\nШар номер “3".{scroll 2}</Text>
+    <Text>\nШар номер “6".{scroll 2}</Text>
+    <Text>\nШар номер “9".{scroll 2}</Text>
+    <Text>\nПохоже на стрелки часов.{scroll 2}{clear 0}\nКакой-то код...{scroll 2}</Text>
+    <Text>\nИгра Дартс.{scroll 2}</Text>
+    <Text>\nОн сломан.{scroll 2}</Text>
+    <Text>\nНа это нет времени.{scroll 2}</Text>
+</Strings>

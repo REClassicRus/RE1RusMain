@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}\n{scroll 2}{color 1}Карта 1-го этажа{color 0}.\nВзять её?{branch 0 1 0}{scroll 2}Ничего из этого\nне выглядит полезным.{scroll 10}</Text>
+    <Text>{scroll 2}{color 1}Карта 1-го этажа{color 0}.\nВзять её?{branch 0 1 0}{scroll 2}Ничего из этого\nне выглядит полезным.{scroll 10}</Text>
+    <Text>{scroll 2}Всё это выглядит\nбесполезным.{scroll 10}</Text>
+    <Text>{scroll 2}\nНичего особенного.{scroll 10}</Text>
+    <Text>{scroll 2}Вы взяли\nкарту 1-го этажа.{scroll 10}</Text>
+</Strings>

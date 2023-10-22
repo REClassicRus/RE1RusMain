@@ -1,6 +1,0 @@
-﻿<Strings>
-    <Text>{scroll 2}\nСтарая одежда.{scroll 2}</Text>
-    <Text>{scroll 2}\nСтранно выглядящий костюм.{clear 0}Хотите одеть его?{branch 0 1 1}{scroll 0}\nМинуту, пожалуйста.{scroll 50} {scroll 2}{timed 255}</Text>
-    <Text>{scroll 0}\nМинуту, пожалуйста.{scroll 50} {scroll 2}{timed 255}</Text>
-    <Text>{scroll 2}\nЕще один костюм.{clear 0}Хотите одеть его?{branch 0 1 1}  {0xFF}{0xFF}{0xFF}{0xFF}{0xFF}{0xFF}{0xFF}{0xFF}                                e       </Text>
-</Strings>

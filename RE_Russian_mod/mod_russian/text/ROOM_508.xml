@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>\nПанель для ввода паролей.</Text>
+    <Text>\nУ вас нет паролей.</Text>
+    <Text>\nВы ввели пароль.</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 65}</Text>
+    <Text>Закрыто на электронный замок.</Text>
+    <Text>\nЗаперто.</Text>
+</Strings>

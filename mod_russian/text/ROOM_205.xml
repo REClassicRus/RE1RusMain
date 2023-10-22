@@ -1,7 +1,0 @@
-﻿<Strings>
-    <Text>Тут есть кнопка.\nХотите нажать её?{branch 1 1 0}\nОткрывается таинственный тоннель.{scroll 2}</Text>
-    <Text>\nОткрывается таинственный тоннель.{scroll 2}</Text>
-    <Text>\nВ витрине что-то есть.{scroll 2}</Text>
-    <Text>\nТяжёлые доспехи.{scroll 2}</Text>
-    <Text>\nПошёл ядовитый газ...!{scroll 2}{timed 1}</Text>
-</Strings>

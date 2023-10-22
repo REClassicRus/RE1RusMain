@@ -1,7 +1,0 @@
-﻿<Strings>
-    <Text>{scroll 0}\n {scroll 1}{timed 45}</Text>
-    <Text>{scroll 2}\n“Аварийный выход"{scroll 1}</Text>
-    <Text>{scroll 2}\nЛифт не работает.{scroll 1}</Text>
-    <Text>{scroll 2}Здесь лестница.\nСпуститься по ней?{scroll 1}{branch 0 1 0}{scroll 2}\nНазад пути нет!{scroll 1}</Text>
-    <Text>{scroll 2}\nНазад пути нет!{scroll 1}</Text>
-</Strings>

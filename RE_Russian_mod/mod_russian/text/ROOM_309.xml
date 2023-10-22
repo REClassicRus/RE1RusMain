@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 0}\n {scroll 1}{clear 140}{scroll 0}\n {scroll 1}{clear 60}{scroll 0}\n {scroll 1}{timed 115}</Text>
+    <Text>{scroll 2}Это электрогенератор,\nпохоже, что он не работает.{scroll 1}</Text>
+</Strings>

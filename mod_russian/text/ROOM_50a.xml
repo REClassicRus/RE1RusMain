@@ -1,8 +1,0 @@
-﻿<Strings>
-    <Text>{scroll 2}Здесь кнопка.\nНажать её?{branch 0 1 1}{scroll 4}\nJohn. Ada...{scroll 2}</Text>
-    <Text>{scroll 4}\nJohn. Ada...{scroll 2}</Text>
-    <Text>{scroll 2}\nНа картине что-то написано...{scroll 2}</Text>
-    <Text>{scroll 2}Слишком темно,\nничего не видно.{scroll 2}</Text>
-    <Text>{scroll 2}Кажется, кто-то\nбыл здесь до меня.{scroll 2}</Text>
-    <Text>{scroll 2}Это выключатель кондиционера,\nон сломан.{scroll 2}</Text>
-</Strings>

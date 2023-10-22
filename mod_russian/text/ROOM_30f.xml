@@ -1,6 +1,0 @@
-﻿<Strings>
-    <Text>{scroll 2}\nЗдесь есть\nшестигранное отверстие.</Text>
-    <Text>{scroll 2}Это {color 1}карта подземелья{color 0}.\nВзять её?{branch 0 1 1}{scroll 2}Вы взяли\nкарту подземелья.</Text>
-    <Text>{scroll 2}Вы взяли\nкарту подземелья.</Text>
-    <Text>{scroll 2}\nНичего необычного.</Text>
-</Strings>

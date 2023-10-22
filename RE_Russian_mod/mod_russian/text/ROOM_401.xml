@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}\nВ кружке есть ключ.{scroll 1}</Text>
+    <Text>{scroll 2}На улице темно,\nя ничего не вижу.{scroll 1}</Text>
+    <Text>{scroll 2}\nНичего необычного.{scroll 1}</Text>
+</Strings>

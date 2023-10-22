@@ -1,8 +1,0 @@
-﻿<Strings>
-    <Text>{scroll 2}Устройство\nдля печати паролей.{clear 0}Если бы у меня был МО-ДИСК,\nя мог бы получить код...{scroll 2}</Text>
-    <Text>{scroll 2}У меня уже\nесть пароль.{scroll 2}</Text>
-    <Text>{scroll 2}\nНичего особенного.\n{scroll 2}</Text>
-    <Text>{scroll 2}Большинство книг\nо фантастике.{scroll 2}</Text>
-    <Text>{scroll 2}Плакаты и картон.\nНичего полезного.{scroll 2}</Text>
-    <Text>{scroll 2}\nВыключатель кондиционера.{scroll 2}</Text>
-</Strings>

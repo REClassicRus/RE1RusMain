@@ -1,4 +1,0 @@
-[MOD]
-Name = Resident Evil: MediaKite - Русская версия
-Title = Resident Evil: MediaKite - Русская версия
-UseRdtXml = 1

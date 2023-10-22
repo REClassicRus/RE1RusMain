@@ -1,0 +1,16 @@
+﻿<Strings>
+    <Text>{scroll 0}“Корпорация Umbrella."\n“Материалы по био-оружию"{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\n“MA-39 Цербер"{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\n“Fi-3 Нептун"{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\n“MA-121 Охотник"{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\n“T-002 Тиран"{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}“Научно-исследовательский институт\n био-оружия. Сотрудники Р и Д."{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 2}По стене что-то\nтащили.{scroll 1}</Text>
+    <Text>{scroll 2}Здесь панель.\nОткрыть её?{scroll 1}{branch 0 1 0}{scroll 2}Здесь кнопка.\nНажать её??{scroll 1}{branch 0 1 0}{scroll 2}\nПроектор.{scroll 1}</Text>
+    <Text>{scroll 2}Здесь кнопка.\nНажать её?{scroll 1}{branch 0 1 0}{scroll 2}\nПроектор.{scroll 1}</Text>
+    <Text>{scroll 2}\nПроектор..{scroll 1}</Text>
+    <Text>{scroll 2}\nЭкран.{scroll 1}</Text>
+    <Text>{scroll 2}Телефон. Похоже,\nон не работает.{scroll 1}</Text>
+    <Text>{scroll 2}\nЗдесь написаны\nкакие-то формулы.{scroll 1}</Text>
+</Strings>

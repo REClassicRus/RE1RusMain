@@ -1,0 +1,18 @@
+﻿<Strings>
+    <Text>{scroll 0}\n {scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 70}{scroll 0}\n {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}{scroll 0}\n {scroll 1}{timed 150}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 150}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 64}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}ОК{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 70}</Text>
+    <Text>{scroll 2}\nФорест...{scroll 1}</Text>
+    <Text>{scroll 2}Это Форест...! Вороны\nзаклевали его до смерти.{scroll 1}</Text>
+</Strings>
