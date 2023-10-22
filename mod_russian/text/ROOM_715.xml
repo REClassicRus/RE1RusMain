@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 2}Здесь кнопка.\nНажать её?{scroll 1}{branch 0 1 0}{scroll 2}\n...Ничего важного.{scroll 1}</Text>
+    <Text>{scroll 2}\n...Ничего важного.{scroll 1}</Text>
+    <Text>{scroll 2}\nВытащить глаз?{scroll 1}{branch 0 1 0}{scroll 2}\nПохоже, что он жив.{scroll 1}</Text>
+    <Text>{scroll 2}\nПохоже, что он жив.{scroll 1}</Text>
+    <Text>{scroll 2}Похоже, он\nсобирается двигаться.{scroll 1}</Text>
+    <Text>{scroll 2}\nКресло-качалка.{scroll 1}</Text>
+    <Text>{scroll 2}\nНичего полезного.{scroll 1}</Text>
+</Strings>

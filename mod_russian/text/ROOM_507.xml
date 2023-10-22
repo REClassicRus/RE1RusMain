@@ -1,0 +1,11 @@
+﻿<Strings>
+    <Text>{scroll 2}Это операционный стол.{scroll 10}</Text>
+    <Text>{scroll 2}Инструменты для операций.\nНекоторые из них в крови.{scroll 10}</Text>
+    <Text>{scroll 2}Здесь вентиляционная шахта.\nВойти в неё?{branch 0 1 0}{scroll 2}\nПошёл ядовитый газ...!{scroll 10}</Text>
+    <Text>{scroll 2}\nПошёл ядовитый газ...!{scroll 10}</Text>
+    <Text>{scroll 2}\nЧей-то труп.{scroll 10}</Text>
+    <Text>{scroll 2}Это место похоже\nна морг.{scroll 10}</Text>
+    <Text>{scroll 2}Устройство\nдля печати паролей.{scroll 10}{clear 0}{scroll 2}Если бы у меня был МО ДИСК,\nя мог бы получить код...{scroll 10}</Text>
+    <Text>{scroll 2}У меня уже\nесть пароль.{scroll 10}</Text>
+    <Text>{scroll 2}\nВы получили пароль.{scroll 10}</Text>
+</Strings>

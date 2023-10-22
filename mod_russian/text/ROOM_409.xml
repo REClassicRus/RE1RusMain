@@ -1,0 +1,29 @@
+﻿<Strings>
+    <Text>{scroll 2}На стене что-то\nнаписано.{clear 0}Вода=1, Красный=2,\nПурпурный=3, Зеленый=4{scroll 2}</Text>
+    <Text>{scroll 2}На стене что-то\nнаписано.{clear 0}1+2=3, 3+4=7, 2+4=6\n6+7=13, 13+3=16{scroll 2}</Text>
+    <Text>{scroll 2}\nЭто УМБ 2.{scroll 2}</Text>
+    <Text>{scroll 2}\nЭто УМБ 4.{scroll 2}</Text>
+    <Text>{scroll 2}\nКран.{scroll 2}</Text>
+    <Text>{scroll 2}Налить воду\nв пустую бутылку?{branch 0 1 1}{scroll 2}Это УМБ 2.{clear 0}Налить УМБ 2\nв пустую бутылку?{branch 0 1 1}{scroll 2}Это УМБ 4.{clear 0}Налить УМБ 4\nв пустую бутылку?{branch 0 1 1}{scroll 2}Это УМБ 2. Вам нужна бутылка,\nчтобы налить её.{scroll 2}</Text>
+    <Text>{scroll 2}Это УМБ 2.{clear 0}Налить УМБ 2\nв пустую бутылку?{branch 0 1 1}{scroll 2}Это УМБ 4.{clear 0}Налить УМБ 4\nв пустую бутылку?{branch 0 1 1}{scroll 2}Это УМБ 2. Вам нужна бутылка,\nчтобы налить её.{scroll 2}</Text>
+    <Text>{scroll 2}Это УМБ 4.{clear 0}Налить УМБ 4\nв пустую бутылку?{branch 0 1 1}{scroll 2}Это УМБ 2. Вам нужна бутылка,\nчтобы налить её.{scroll 2}</Text>
+    <Text>{scroll 2}Это УМБ 2. Вам нужна бутылка,\nчтобы налить её.{scroll 2}</Text>
+    <Text>{scroll 2}Это УМБ 4. Вам нужна бутылка,\nчтобы налить её.{scroll 2}</Text>
+    <Text>\nЭто ядовитый газ!{scroll 2}\nНужно бежать отсюда.{scroll 2}</Text>
+    <Text>{scroll 2}\nНужно бежать отсюда.{scroll 2}</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 100}{scroll 0}\n{scroll 2}{timed 150}</Text>
+    <Text>Вы хотите, чтобы я подлатала\nваши раны?{scroll 1}{branch 0 1 0}{scroll 0}\n{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 50}{scroll 0}\n{scroll 2}{timed 120}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 50}{scroll 0}\n{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 60}{scroll 0}\n{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 75}</Text>
+    <Text>\nРебекка лечит Криса.{scroll 2}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 80}</Text>
+    <Text>{scroll 2}Это УМБ 2. Крис не умеет\nработать с химикатами.{scroll 2}</Text>
+    <Text>{scroll 2}Это УМБ 4. Крис не умеет\nработать с химикатами.{scroll 2}</Text>
+    <Text>{scroll 2}Это бесполезно. Крис не умеет\nработать с химикатами.{scroll 2}</Text>
+</Strings>
