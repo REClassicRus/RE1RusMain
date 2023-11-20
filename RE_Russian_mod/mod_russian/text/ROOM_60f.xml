@@ -1,6 +1,6 @@
 ﻿<Strings>
     <Text>\nКрасивый рояль.</Text>
-    <Text>К сожалению, Крис,\nне умеет играть на рояле.</Text>
+    <Text>К сожалению, Крис не\nумеет играть на рояле.</Text>
     <Text>{scroll 0}\n {scroll 2}{timed 52}</Text>
     <Text>{scroll 0}\n {scroll 2}{timed 43}</Text>
     <Text>{scroll 0}\n {scroll 2}{timed 55}</Text>

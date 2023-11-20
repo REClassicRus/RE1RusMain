@@ -10,6 +10,6 @@
     <Text>{scroll 0}\n{scroll 2}{timed 60}</Text>
     <Text>{scroll 0}\n{scroll 2}{timed 45}</Text>
     <Text>{scroll 0}\n{scroll 2}{timed 45}</Text>
-    <Text>Мне больше не нужна\nсыворотка.{scroll 2}</Text>
+    <Text>Мне больше не\nнужна сыворотка.{scroll 2}</Text>
     <Text>\nВитамины и сыворотки.{scroll 2}</Text>
 </Strings>

@@ -44,6 +44,6 @@
     <Text>{scroll 0}\n{scroll 1}{timed 65}</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 67}</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 87}</Text>
-    <Text>{scroll 2}\nЭто пистолет Джилл...!{clear 0}{scroll 2}\n{timed 1}</Text>
+    <Text>{scroll 2}\nЭто пистолет Джилл!..{clear 0}{scroll 2}\n{timed 1}</Text>
     <Text>{scroll 2}\nНа это нет времени.</Text>
 </Strings>

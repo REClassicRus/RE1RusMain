@@ -23,7 +23,7 @@
     <Text>{scroll 0}\n {scroll 1}{timed 105}</Text>
     <Text>{scroll 0}\n {scroll 1}{timed 60}</Text>
     <Text>{scroll 1}Пойти с ним?\n{scroll 1}{branch 0 1 0}{scroll 1}Хотите, чтобы он пошёл первым?\n{scroll 1}{branch 0 1 0}{scroll 1}Остаться здесь?\n {scroll 1}{branch 0 1 0}{scroll 0}\n {scroll 1}{timed 90}</Text>
-    <Text>{scroll 1}Хотите, чтобы он пошёл первым?\n{scroll 1}{branch 0 1 0}{scroll 1}Will you stay here?\n {scroll 1}{branch 0 1 0}{scroll 0}\n {scroll 1}{timed 90}</Text>
+    <Text>{scroll 1}Хотите, чтобы он пошёл первым?\n{scroll 1}{branch 0 1 0}{scroll 1}Остаться здесь?\n {scroll 1}{branch 0 1 0}{scroll 0}\n {scroll 1}{timed 90}</Text>
     <Text>{scroll 1}Остаться здесь?\n {scroll 1}{branch 0 1 0}{scroll 0}\n {scroll 1}{timed 90}</Text>
     <Text>{scroll 0}\n {scroll 1}{timed 90}</Text>
     <Text>{scroll 0}\n {scroll 1}{timed 55}</Text>

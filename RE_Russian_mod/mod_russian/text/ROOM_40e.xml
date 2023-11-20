@@ -1,5 +1,5 @@
 ﻿<Strings>
     <Text>{scroll 2}\nЗаперто.{clear 0}{scroll 2}\nЗамка не видно.</Text>
     <Text>{scroll 2}\nЭто большой резервуар для воды.</Text>
-    <Text>{scroll 2}\nПохоже бак треснул.</Text>
+    <Text>{scroll 2}\nПохоже, что бак треснул.</Text>
 </Strings>

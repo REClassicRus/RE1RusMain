@@ -10,6 +10,6 @@
     <Text>{scroll 0}\n{scroll 2}{clear 145}{scroll 0}\n{scroll 2}{timed 75}</Text>
     <Text>{scroll 0}\n{scroll 2}{clear 140}{scroll 0}\n{scroll 2}{clear 110}{scroll 0}\n{scroll 2}{timed 110}</Text>
     <Text>{scroll 0}\n{scroll 2}{timed 40}</Text>
-    <Text>Там что-то блести,\nно мне не дотянуться.{scroll 2}</Text>
+    <Text>Там что-то блестит,\nно мне не дотянуться.{scroll 2}</Text>
     <Text>Дверь захлопнулась.\nНе открывается.{scroll 2}</Text>
 </Strings>

@@ -1,8 +1,8 @@
 ﻿<Strings>
     <Text>Кто-то сдвинул\nэту плиту.{scroll 2}</Text>
     <Text>Слишком темно,\nничего не видно.{scroll 2}</Text>
-    <Text>Слишком темно, ничего не видно.\nСпрыгнуть вниз?{scroll 1}{branch 0 1 0}Здесь есть веревка.\nСпуститься вниз?{scroll 1}{branch 0 1 0}{scroll 0}\n{scroll 2}{timed 95}</Text>
-    <Text>Здесь есть веревка.\nСпуститься вниз?{scroll 1}{branch 0 1 0}{scroll 0}\n{scroll 2}{timed 95}</Text>
+    <Text>Слишком темно, ничего не видно.\nСпрыгнуть вниз?{scroll 1}{branch 0 1 0}Здесь есть верёвка.\nСпуститься вниз?{scroll 1}{branch 0 1 0}{scroll 0}\n{scroll 2}{timed 95}</Text>
+    <Text>Здесь есть верёвка.\nСпуститься вниз?{scroll 1}{branch 0 1 0}{scroll 0}\n{scroll 2}{timed 95}</Text>
     <Text>{scroll 0}\n{scroll 2}{timed 95}</Text>
     <Text>{scroll 0}\n{scroll 2}{timed 90}</Text>
     <Text>{scroll 0}\n{scroll 2}{timed 130}</Text>
@@ -25,7 +25,7 @@
     <Text>Здесь кнопка.\nНажать её?{scroll 1}{branch 0 1 0}{branch 2 9 25}</Text>
     <Text>{branch 2 9 25}</Text>
     <Text>\n{scroll 2}{clear 0}\n{scroll 2}{clear 0}\n{scroll 2}{clear 0}{branch 2 9 25}</Text>
-    <Text>Здесь есть веревка.\nПодняться по ней?{scroll 1}{branch 0 1 0}Здесь лестница.\nСпуститься по ней?{scroll 1}{branch 0 1 0}В камине открывается\nуглубление.{scroll 2}</Text>
+    <Text>Здесь есть верёвка.\nПодняться по ней?{scroll 1}{branch 0 1 0}Здесь лестница.\nСпуститься по ней?{scroll 1}{branch 0 1 0}В камине открывается\nуглубление.{scroll 2}</Text>
     <Text>Здесь лестница.\nСпуститься по ней?{scroll 1}{branch 0 1 0}\n\nВ камине дыра.{scroll 2}</Text>
     <Text>\nВ камине дыра.{scroll 2}</Text>
 </Strings>

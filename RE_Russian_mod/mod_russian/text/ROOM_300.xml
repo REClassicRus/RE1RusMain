@@ -8,6 +8,6 @@
     <Text>{scroll 0}\n{scroll 1}{clear 106}{scroll 0}\n{scroll 1}{clear 83}{scroll 0}\n{scroll 1}{timed 162}</Text>
     <Text>{scroll 2}Лебёдка для лифта.\nЛифт не работает.</Text>
     <Text>{scroll 2}\n</Text>
-    <Text>{scroll 2}Это {color 1}карта сада{color 0}.\nВзять её?{branch 0 1 0}{scroll 2}Вы взяли\nкарту сада.</Text>
+    <Text>{scroll 2}Это {color 1}Карта сада{color 0}.\nВзять её?{branch 0 1 0}{scroll 2}Вы взяли\nкарту сада.</Text>
     <Text>{scroll 2}Вы взяли\nкарту сада.</Text>
 </Strings>

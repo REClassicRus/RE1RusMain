@@ -1,6 +1,6 @@
 ﻿<Strings>
-    <Text>{scroll 2}Здесь есть рычаг.\nОпустить его?{branch 0 1 1}{scroll 2}Здесь кнопка.\nНажать её?{branch 0 1 1}{scroll 2}Из соседней комнаты\nдоносься щелчок.{scroll 2}</Text>
-    <Text>{scroll 2}Здесь кнопка.\nНажать её?{branch 0 1 1}{scroll 2}Из соседней комнаты\nдоносься щелчок.{scroll 2}</Text>
+    <Text>{scroll 2}Здесь есть рычаг.\nОпустить его?{branch 0 1 1}{scroll 2}Здесь кнопка.\nНажать её?{branch 0 1 1}{scroll 2}Из соседней комнаты\nдонёсся щелчок.{scroll 2}</Text>
+    <Text>{scroll 2}Здесь кнопка.\nНажать её?{branch 0 1 1}{scroll 2}Из соседней комнаты\nдонёсся щелчок.{scroll 2}</Text>
     <Text>{scroll 2}Из соседней комнаты\nдонёсся щелчок.{scroll 2}</Text>
     <Text>{scroll 2}\nНичего особенного.{scroll 2}</Text>
 </Strings>

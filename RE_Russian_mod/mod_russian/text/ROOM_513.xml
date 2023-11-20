@@ -1,6 +1,6 @@
 ﻿<Strings>
     <Text>{scroll 2}\n</Text>
-    <Text>{scroll 2}\nНа полу лежит ключ..</Text>
+    <Text>{scroll 2}\nНа полу лежит ключ.</Text>
     <Text>{scroll 2}\nКакая жалкая смерть...</Text>
     <Text>{scroll 2}Я не могу оставить\nБарри одного!</Text>
     <Text>{scroll 2}\n</Text>
@@ -26,12 +26,12 @@
     <Text>{scroll 0}\n{scroll 1}{timed 70}</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 115}</Text>
     <Text>{scroll 1}{clear 20}{scroll 0}\n{scroll 1}{timed 40}</Text>
-    <Text>{scroll 2}Похоже отсюда можно\nуправлять этим залом,{clear 0}{scroll 2}\nно на это нет времени!</Text>
+    <Text>{scroll 2}Похоже, что отсюда можно\nуправлять этим залом.{clear 0}{scroll 2}\nНо на это нет времени!</Text>
     <Text>{scroll 2}Она заперта\nна электронный замок!?</Text>
-    <Text>{scroll 2}Похоже отсюда можно\nуправлять этим залом.{clear 0}{scroll 2}Кажется здесь кнопка\nразблокировки двери.{clear 0}\nРазблокировать её?{branch 0 1 0}{scroll 2}Похоже отсюда можно\nуправлять этим залом.{clear 0}{scroll 2}Устройство блокировки дверей.\nРазблокировать дверь?{branch 0 1 0}{scroll 2}\nЭлектронно заблокирована.</Text>
-    <Text>{scroll 2}Похоже это устройство управления\nэтим залом.{clear 0}{scroll 2}Устройство блокировки дверей.\nРазблокировать дверь?{branch 0 1 0}{scroll 2}\nЭлектронно заблокирован.</Text>
-    <Text>{scroll 2}Она заперта\nна электронный замок.</Text>
-    <Text>{scroll 2}Похоже отсюда можно\nуправлять этим залом.</Text>
+    <Text>{scroll 2}Похоже, что отсюда можно\nуправлять этим залом.{clear 0}{scroll 2}Здесь кнопка\nразблокировки двери.{clear 0}\nРазблокировать её?{branch 0 1 0}{scroll 2}Похоже, что отсюда можно\nуправлять этим залом.{clear 0}{scroll 2}Устройство блокировки дверей.\nРазблокировать дверь?{branch 0 1 0}{scroll 2}Заперто на\nэлектронный замок.</Text>
+    <Text>{scroll 2}Похоже, что отсюда можно\nуправлять этим залом.{clear 0}{scroll 2}Устройство блокировки дверей.\nРазблокировать дверь?{branch 0 1 0}{scroll 2}Заперто на\nэлектронный замок.</Text>
+    <Text>{scroll 2}Заперто на\nэлектронный замок.</Text>
+    <Text>{scroll 2}Похоже, что отсюда можно\nуправлять этим залом.</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 88}</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 60}</Text>
     <Text>{scroll 0}\n{scroll 1}{clear 165}{scroll 0}\n{scroll 1}{timed 75}</Text>

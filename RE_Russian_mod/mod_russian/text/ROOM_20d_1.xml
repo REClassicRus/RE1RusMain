@@ -13,7 +13,7 @@
     <Text>{scroll 0}{scroll 1}{timed 156}</Text>
     <Text>{scroll 2}\nРичард из команды Браво.{scroll 10}</Text>
     <Text>{scroll 0}{scroll 1}{timed 50}</Text>
-    <Text>{scroll 2}\nРичард мертв.{scroll 10}</Text>
+    <Text>{scroll 2}\nРичард мёртв.{scroll 10}</Text>
     <Text>{scroll 2}\nМне нужно найти\nсыворотку...{scroll 10}</Text>
-    <Text>{scroll 2}\nРичард мертв.{scroll 10}</Text>
+    <Text>{scroll 2}\nРичард мёртв.{scroll 10}</Text>
 </Strings>

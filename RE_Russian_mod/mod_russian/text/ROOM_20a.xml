@@ -1,9 +1,9 @@
 ﻿<Strings>
     <Text>{scroll 2}\n</Text>
-    <Text>{scroll 2}Слишком тяжело,\nчтобы подвинуть.</Text>
+    <Text>{scroll 2}Не сдвинуть с места,\nслишком тяжело.</Text>
     <Text>{scroll 2}\n</Text>
-    <Text>{scroll 2}Кажется, кто-то\nуже был здесь...{clear 0}{scroll 2}Похоже, это кнопка.\nНажать её?{branch 0 1 0}{scroll 2}Здесь что-то есть,\nв задней части полки.</Text>
-    <Text>{scroll 2}Здесь что-то есть,\nв задней части полки.</Text>
+    <Text>{scroll 2}Кажется, кто-то\nуже был здесь...{clear 0}{scroll 2}Это похоже на кнопку.\nНажать её?{branch 0 1 0}{scroll 2}В задней части полки\nчто-то есть.</Text>
+    <Text>{scroll 2}В задней части полки\nчто-то есть.</Text>
     <Text>{scroll 2}\nНа столе порядок.</Text>
     <Text>{scroll 2}\nНичего особенного.</Text>
     <Text>{scroll 2}\n{clear 0}\n{branch 0 1 0}{scroll 2}\n{clear 0}\n?{branch 0 1 0}{scroll 0}\n{scroll 1}{timed 49}</Text>
