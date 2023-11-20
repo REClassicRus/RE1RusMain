@@ -5,7 +5,7 @@
     <Text>{scroll 0}{scroll 2}{timed 110}</Text>
     <Text>{scroll 2}Надпись: “Всем живым существам\nсуждено умереть".{scroll 2}</Text>
     <Text>{scroll 2}Портрет уставшего мужчины\nсреднего возраста.{scroll 2}</Text>
-    <Text>{scroll 2}Портрет новорождённого\nребенка{scroll 2}</Text>
+    <Text>{scroll 2}Портрет новорождённого\nребёнка{scroll 2}</Text>
     <Text>{scroll 2}\nПортрет молодого человека.{scroll 2}</Text>
     <Text>{scroll 2}\nПортрет младенца.{scroll 2}</Text>
     <Text>{scroll 2}\nПортрет весёлого мальчика.{scroll 2}</Text>
