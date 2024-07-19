@@ -15,4 +15,4 @@
 [Оригинальный текст на английском](https://github.com/Gemini-Loboto3/RE1-Mod-SDK/tree/master/xml) (без субтитров), [немецкий](https://www.nexusmods.com/residentevil1996/mods/4) (с субтитрами), [испанский](https://www.nexusmods.com/residentevil1996/mods/2) (с субтитрами).
 
 ## Загрузка
-[Последняя версия](https://github.com/REClassicRus/RE1RusMain/archive/refs/heads/master.zip)
+[Последняя версия](https://mega.nz/folder/bypW2R7L#fwbtUXBhwO4Hi3agrHTBoQ)
